@@ -1,4 +1,4 @@
-```html
+
 <!-- 🪻 Lavender Glassmorphism Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E6E6FA,100:B57EDC&height=200&section=header&text=Ayushi%20Sharma%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
@@ -142,4 +142,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=footer" width="100%" />
 </p>
-```
+
