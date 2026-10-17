@@ -57,11 +57,11 @@
 ## 📊 GitHub Energy 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmaayushi24154-boop&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharma-ayushi22&show_icons=true&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaayushi24154-boop&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharma-ayushi22&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
@@ -131,6 +131,6 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: sharmaayushi24154-boop
+          github_user_name: sharma-ayushi22
           outputs: dist/github-contribution-grid-snake.svg
 <p align="center"> 💖 Made with attitude & ambition by Ayushi 💅✨ </p> <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=100&section=footer"/> </p> ```
