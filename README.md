@@ -1,5 +1,9 @@
 <!-- Lavender Engineering Portfolio | Ayushi Sharma -->
-
+<p align="center">
+  <img src="assets/lavender-profile.png"
+       alt="Ayushi Sharma's lavender developer portfolio"
+       width="100%" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DDD6FE,50:C4B5FD,100:8B5CF6&height=190&section=header&text=Ayushi%20Sharma&fontSize=48&fontColor=312E81&animation=fadeIn" width="100%" alt="Ayushi Sharma - Software Engineering Portfolio" />
 </p>
